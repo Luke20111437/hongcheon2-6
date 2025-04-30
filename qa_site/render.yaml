@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: qa-flask-site
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: "python app.py"
